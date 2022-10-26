@@ -5,6 +5,7 @@
     "duration": "6 months",
     "total_class": 120,
     "fees": 7000,
+    "projects": 16,
     "img": "https://i.ibb.co/h1JRLhw/web-development.jpg",
     "description": " Learning web development from online courses could take anywhere from a single month to several years, depending on how much time you devote to your courses. If you finished this course seriously with work you will create and maintain websites. In addition, you may create content for the site. After finished this journey you will have much opportunity to build up your carrer as a freelancer or you can do remote job as well",
     "topics": [
@@ -22,8 +23,9 @@
     "duration": "4 months",
     "total_class": 100,
     "fees": 5000,
+    "projects": 12,
     "img": "https://i.ibb.co/FwB9WLN/res-web-design.jpg",
-    "description": " Learning web design from online courses could take anywhere from a single month to several years, depending on how much time you devote to your courses. If you finished this course seriously with work you will create and maintain websites. In addition, you may create content for the site. After finished this journey you will have much opportunity to build up your carrer as a freelancer or you can do remote job as well",
+    "description": "In this course, you will learn how to apply concepts from interaction design and human-computer interaction in order to design and build an interactive, professional-looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using JavaScript objects and templates. You’ll also learn about jQuery plugins and basic Word Press Theme Customization.",
     "topics": [
       "html",
       "css",
@@ -39,6 +41,7 @@
     "duration": "5 months",
     "total_class": 110,
     "fees": 5000,
+    "projects": 15,
     "img": "https://i.ibb.co/cD4DsYG/react-js.jpg",
     "description": " Learning React Js from online courses could take anywhere from a single month to several years, depending on how much time you devote to your courses. If you finished this course seriously with work you will create basically front side of a website. In addition, you may create content for the site. After finished this journey you will have much opportunity to build up your carrer as a freelancer or you can do remote job as well",
     "topics": [
@@ -56,6 +59,7 @@
     "duration": "6 months",
     "total_class": 120,
     "fees": 8000,
+    "projects": 16,
     "img": "https://i.ibb.co/vQJn9kK/Python-Django.jpg",
     "description": " Learning python from online courses could take anywhere from a single month to several years, depending on how much time you devote to your courses. If you finished this course seriously with work you will create and maintain websites. In addition,you may participate competetive programing world wide. After finished this journey you will have much opportunity to build up your carrer as a freelancer or you can do remote job as well",
     "topics": ["html", "css", "bootstrap", "tailwind css", "python", "django"]
@@ -66,6 +70,7 @@
     "duration": "6 months",
     "total_class": 110,
     "fees": 6000,
+    "projects": 13,
     "img": "https://i.ibb.co/qkth67f/ethical-hacking.jpg",
     "description": " Learning Ethical Hacking from online courses could take anywhere from a single month to several years, depending on how much time you devote to your courses. If you finished this course seriously with work you will maintain websites security and many others security perpouses. After finished this journey you will have much opportunity to build up your carrer as a freelancer or you can do remote job as well",
     "topics": [
@@ -74,8 +79,7 @@
       "Google Hacking Database ",
       "Social Engineering",
       "System Hacking & Security",
-      "Sniffers & keyloggers",
-      "HoneyPots"
+      "Sniffers & keyloggers"
     ]
   },
   {
@@ -84,6 +88,7 @@
     "duration": "3 months",
     "total_class": 100,
     "fees": 4000,
+    "projects": 10,
     "img": "https://i.ibb.co/Jd4wH9m/wordpress.jpg",
     "description": " Learning Wordpress devoloping from online courses could take anywhere from a single month to several years, depending on how much time you devote to your courses. If you finished this course seriously with work you will create basically front side of a website. In addition, you may create content for the site. After finished this journey you will have much opportunity to build up your carrer as a freelancer or you can do remote job as well",
     "topics": [
