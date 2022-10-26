@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "name": "Web Development",
+    "duration": "6 months",
+    "total_class": 120,
+    "fees": 7000,
+    "img": "https://i.ibb.co/h1JRLhw/web-development.jpg"
+  },
+  {
+    "id": "02",
+    "name": "Web Design",
+    "duration": "4 months",
+    "total_class": 100,
+    "fees": 5000,
+    "img": "https://i.ibb.co/FwB9WLN/res-web-design.jpg"
+  },
+  {
+    "id": "03",
+    "name": "React JS",
+    "duration": "5 months",
+    "total_class": 110,
+    "fees": 5000,
+    "img": "https://i.ibb.co/cD4DsYG/react-js.jpg"
+  },
+  {
+    "id": "04",
+    "name": "Python & DJango",
+    "duration": "6 months",
+    "total_class": 120,
+    "fees": 8000,
+    "img": "https://i.ibb.co/vQJn9kK/Python-Django.jpg"
+  },
+  {
+    "id": "05",
+    "name": "Ethical Hacking",
+    "duration": "6 months",
+    "total_class": 110,
+    "fees": 6000,
+    "img": "https://i.ibb.co/qkth67f/ethical-hacking.jpg"
+  },
+  {
+    "id": "06",
+    "name": "Wordpress",
+    "duration": "3 months",
+    "total_class": 100,
+    "fees": 4000,
+    "img": "https://i.ibb.co/Jd4wH9m/wordpress.jpg"
+  }
+]
